@@ -1,2 +1,2 @@
-# p59-programaci-n_hipermedial
+# p59-programacion_hipermedial
 Material del curso programación hipermedial
